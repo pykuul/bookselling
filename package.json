@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/pykuul/bookselling/issues"
   },
-  "homepage": "https://github.com/pykuul/bookselling#readme"
+  "homepage": "https://github.com/pykuul/bookselling#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
 }
